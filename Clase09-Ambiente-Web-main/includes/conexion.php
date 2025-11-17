@@ -5,7 +5,7 @@
 
     $host = 'localhost';
     $user = 'root';
-    $pass = 'Jdcc7206.';
+    $pass = 'lakakitapro';
     $database = 'tienda_app';
 
     $mysqli = new mysqli($host,$user,$pass,$database);
